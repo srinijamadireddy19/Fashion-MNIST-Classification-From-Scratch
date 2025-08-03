@@ -1,5 +1,5 @@
-# Fashion-MNIST-Classification-From-Scratch
-End-to-End Implementation of a Fully Connected Neural Network for Fashion-MNIST Classification Without Deep Learning Frameworks
+# End-to-End Implementation of a Fully Connected Neural Network for Fashion-MNIST Classification Without Deep Learning Frameworks
+Fashion-MNIST-Classification-From-Scratch
 
 This project presents an end-to-end implementation of a fully connected neural network for Fashion-MNIST classification using only NumPy, without relying on any deep learning frameworks like
 TensorFlow or PyTorch. By building each component from scratch—forward propagation, backpropagation, dropout, regularization, and optimizers—it offers a deep dive into how neural networks 
